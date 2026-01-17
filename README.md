@@ -13,7 +13,6 @@ This project allows users to add, view, update, and delete student records using
 - Delete student records
 - SQLite database for data storage
 - Clean UI using HTML and CSS
-- No JavaScript used (backend-driven application)
 
 ---
 
